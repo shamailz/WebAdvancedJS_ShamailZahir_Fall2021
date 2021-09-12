@@ -3,6 +3,6 @@
 
 console.log("hello!");
 //popup!
-var info = "JS Class";
+let info = "JS Class";
 alert("Hello, my name is " + info);
 
