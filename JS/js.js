@@ -6,6 +6,7 @@ console.log("hello!");
 let info = "JS Class";
 alert("Hello, my name is " + info + "!");
 
-let child = document.createElement("h1");
-child.innerHTML = info
+let new = document.createElement("h1");
+new.innerHTML = info
+document.getElementById("container").appendChild(new)
 

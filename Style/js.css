@@ -1,3 +1,28 @@
 html{
 	background-color: orange;
 }
+
+#container{
+	width: 80%;
+	height: auto;
+	margin-left: 10%;
+}
+
+.boxes{
+	width: calc(100%/3);
+	height: 20vw;
+	background-color: aquamarine;
+	float: left;
+}
+
+#box1{
+	background-color: chocolate;
+}
+
+#box2{
+	background-color: green;
+}
+
+#box3{
+	background-color: rebeccapurple;
+}
