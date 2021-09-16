@@ -75,8 +75,9 @@ html{
 #weekfourteen{
 	margin-left: 26vw;
 }
-a:-webkit-any-link {
+a:-webkit-any-link , a:visited{
     color: gb(230, 233, 255);
     cursor: pointer;
     text-decoration: none;
 }
+
