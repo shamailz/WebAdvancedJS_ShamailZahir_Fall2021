@@ -76,7 +76,7 @@ html{
 	margin-left: 26vw;
 }
 
-a:active{
+a , a:active , a: hover , a: visited , a:link{
 	color: rgb(230, 233, 255);
 	text-decoration: none;
 }
