@@ -80,4 +80,6 @@ a:-webkit-any-link , a:visited{
     cursor: pointer;
     text-decoration: none;
 }
-
+a:hover{
+	text-decoration: dotted , rgb(230, 233, 255);
+}
