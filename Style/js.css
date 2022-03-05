@@ -87,9 +87,9 @@ a:hover{
 	color: rgb(145, 150, 190);	
 }
 
-a , a:active  , a:visited , a:link{
+a:active  , a:visited , a:link{
 	color: rgb(230, 233, 255);
-	text-decoration: none;*/
+	text-decoration: none;
 }
 
 
