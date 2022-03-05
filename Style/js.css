@@ -82,12 +82,14 @@ a:-webkit-any-link {
     text-decoration: none;
 }
 
-a , a:active , a:hover , a:visited , a:link{
+a , a:active  , a:visited , a:link{
 	color: rgb(230, 233, 255);
 	text-decoration: none;*/
 }
 
-
+a:hover{
+	color: rgb(182, 189, 241);	
+}
 
 
 
