@@ -77,17 +77,16 @@ html{
 	margin-left: 26vw;
 }
 a:-webkit-any-link {
-    color: gb(230, 233, 255);
+    /* color: gb(230, 233, 255); */
     cursor: pointer;
     text-decoration: none;
 }
-
 
 a:hover{
 	color: rgb(145, 150, 190);	
 }
 
-a:active  , a:visited , a:link{
+a:active , a:visited , a:link{
 	color: rgb(230, 233, 255);
 	text-decoration: none;
 }
