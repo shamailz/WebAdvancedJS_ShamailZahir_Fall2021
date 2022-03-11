@@ -72,9 +72,9 @@ html{
 	margin-left: 30px;
 }
 
-#weekfourteen{
+/* #weekfourteen{
 	margin-left: 26vw;
-}
+} */
 a:-webkit-any-link , a:visited{
     color: rgb(230, 233, 255);
     cursor: pointer;
